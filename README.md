@@ -1,6 +1,6 @@
 <h1 align="left">👋 Olá! Eu me chamo José Sarmento</h1>
 
-Sou desenvolvedor em formação.
+Sou desenvolvedor em formação, estudante do Curso Técnico em Informática no IFRN Campus Pau dos Ferros.
 
 ---
 
