@@ -14,23 +14,15 @@ Busco aprimorar minhas habilidades por meio de projetos práticos, estudo contí
   />
 </div>
 
----
-
-## 🚀 Principais Projetos
-
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
-  <img src="https://img.shields.io/badge/Ver%20todos%20os%20repositórios-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 ---
 
-## 🧩 Stack Tecnológica
+## 🧩 Atualmente estududando
 
 <div align="left">
   
   <img src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -41,14 +33,9 @@ Busco aprimorar minhas habilidades por meio de projetos práticos, estudo contí
 
 ---
 
-## 📬 Entre em contato
+## 📬 Contato
 
-<div align="left">
-  <a href="https://linkedin.com/in/SEU-LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:SEUEMAIL@EXEMPLO.COM">
+  <a href="mailto:j.eduardo.sarmento10@gmail.com">
     <img src="https://img.shields.io/badge/Email-6A737D?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
