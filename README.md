@@ -6,7 +6,7 @@ Sou desenvolvedor em formação.
 
 ## 📊 Stats
 
-<div>
+<div align='center'>
   <a href="https://github.com/joseedusarmento">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseedusarmento&layout=compact&stats_format=bytes&theme=radical"/>
 </div>
