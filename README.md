@@ -16,7 +16,7 @@ Sou desenvolvedor em formação, estudante do Curso Técnico em Informática no 
 
 ## 🧩 Linguagens que estudo
 
-<div align="left">
+<div align="center">
   
   <img src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,7 +32,7 @@ Sou desenvolvedor em formação, estudante do Curso Técnico em Informática no 
 ---
 
 ## 📬 Contato
-<div>
+<div align="center">
   <a href="https://instagram.com/joseesarmento_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   
   <a href="mailto:j.eduardo.sarmento10@gmail.com">
