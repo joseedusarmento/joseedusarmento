@@ -1,7 +1,6 @@
-<h1 align="left">Olá, eu me chamo José Sarmento</h1>
+<h1 align="left">👋 Olá! Eu me chamo José Sarmento</h1>
 
-Sou desenvolvedor em formação, com foco em desenvolvimento web e construção de aplicações bem estruturadas.  
-Busco aprimorar minhas habilidades por meio de projetos práticos, estudo contínuo e boas práticas de engenharia de software.
+Sou desenvolvedor em formação.
 
 ---
 
