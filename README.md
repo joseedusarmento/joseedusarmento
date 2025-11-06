@@ -5,13 +5,11 @@ Busco aprimorar minhas habilidades por meio de projetos práticos, estudo contí
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
-<div align="left">
-  <img 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=github_dark" 
-       alt="GitHub Stats"
-  />
+<div>
+  <a href="https://github.com/joseedusarmento">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseedusarmento&layout=compact&stats_format=bytes&theme=radical"/>
 </div>
 
 
