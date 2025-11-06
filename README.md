@@ -1,6 +1,7 @@
 <h1 align="center">👋 Olá! Eu me chamo José Sarmento</h1>
-
+<div align ="center">
   Sou desenvolvedor em formação, estudante do Curso Técnico em Informática no IFRN Campus Pau dos Ferros.
+</div>
 
 ---
 
