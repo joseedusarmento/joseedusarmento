@@ -4,9 +4,9 @@
 </div>
 
 ---
-<p align = 'center'>
-  ## 📊 Stats:
-</p>
+<h1 align = 'center'>
+  📊 Stats:
+</h1>
 <div align='center'>
   <a href="https://github.com/joseedusarmento">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseedusarmento&layout=compact&theme=radical"/>
@@ -14,11 +14,10 @@
 
 
 ---
-
-## 🧩 Atualmente estudando:
-
+<h1 align = 'center'>
+  🧩 Atualmente estudando:
+</h1>
 <div align="center">
-  
   <img src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -31,8 +30,9 @@
 </div>
 
 ---
-
-## 📬 Contatos:
+<h1 align = 'center'> 
+  📬 Contatos:
+</h1>
 <div align="center">
   <a href="https://instagram.com/joseesarmento_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
