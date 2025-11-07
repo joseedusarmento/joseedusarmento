@@ -5,9 +5,8 @@
 
 ---
 
-## 📊 Stats
-
 <div align='center'>
+  ## 📊 Stats:
   <a href="https://github.com/joseedusarmento">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseedusarmento&layout=compact&theme=radical"/>
 </div>
@@ -15,7 +14,7 @@
 
 ---
 
-## 🧩 Linguagens que estudo
+## 🧩 Atualmente estudando:
 
 <div align="center">
   
@@ -32,10 +31,10 @@
 
 ---
 
-## 📬 Contato
+## 📬 Contatos:
 <div align="center">
   <a href="https://instagram.com/joseesarmento_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  
+
   <a href="mailto:j.eduardo.sarmento10@gmail.com">
     <img src="https://img.shields.io/badge/Email-6A737D?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
