@@ -4,9 +4,10 @@
 </div>
 
 ---
-
-<div align='center'>
+<p align = 'center'>
   ## 📊 Stats:
+</p>
+<div align='center'>
   <a href="https://github.com/joseedusarmento">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseedusarmento&layout=compact&theme=radical"/>
 </div>
