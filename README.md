@@ -34,7 +34,7 @@
   📬 Contatos:
 </h1>
 <div align="center">
-  <a href="https://instagram.com/joseesarmento_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/joseedusarmento"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
   <a href="mailto:j.eduardo.sarmento10@gmail.com">
     <img src="https://img.shields.io/badge/Email-6A737D?style=for-the-badge&logo=gmail&logoColor=white"/>
